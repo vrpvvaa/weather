@@ -13,4 +13,3 @@ $response = file_get_contents($url);
 
 // Возвращаем ответ в формате JSON
 echo $response;
-?>
